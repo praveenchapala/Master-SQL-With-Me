@@ -1,9 +1,6 @@
 # 🗄️ Master SQL With Me
 
 > A structured SQL learning repository documenting my journey from database fundamentals to advanced SQL concepts through notes, examples, practice queries, and real-world scenarios.
-
----
-
 ## 📖 About This Repository
 
 **Master SQL With Me** is my personal SQL learning journey.
